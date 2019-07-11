@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "TESTING JSON SERVER",
+      "author": "ALEX"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "auth": {
+    "email": "test@boop.com",
+    "password": "testpas"
+  }
+}
