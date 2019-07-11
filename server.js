@@ -12,6 +12,13 @@ server.use(jsonServer.rewriter({
   "/auth/register": "/auth"
 }))
 
+// response
+router.render = (req, res) => {
+  res.status(201).jsonp({
+    token: "Test Token!"
+  })
+}
+
 // ----
 
 
