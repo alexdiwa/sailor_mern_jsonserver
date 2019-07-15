@@ -9,20 +9,23 @@ server.use(middlewares)
 
 // custom route
 server.use(jsonServer.rewriter({
-  "/auth/register": "/auth"
+  "/auth/signup": "/signup",
+  "/auth/login": "/login",
+  "/article/1": "/1",
+  "/article/2": "/2"
 }))
 
-// response
-router.render = (req, res) => {
-  res.status(201).jsonp({
-    token: "Test Token!"
-  })
-}
+// response for test token on register and login (disable at all other times)
+// router.render = (req, res) => {
+//   res.jsonp({
+//     token: "Test Token!"
+//   })
+// }
 
 // ----
-
 
 server.use(router)
 server.listen(3000, () => {
   console.log('JSON Server is running')
 })
+

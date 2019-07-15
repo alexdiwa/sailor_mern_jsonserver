@@ -16,8 +16,102 @@
   "profile": {
     "name": "typicode"
   },
-  "auth": {
-    "email": "tsdkfmsdk@test.com",
-    "password": "testpass"
-  }
+  "signup": {
+    "firstName": "AlexTest",
+    "lastName": "DiwaTest",
+    "email": "sfskf@test.com",
+    "password": "kjsnfjksdnfkjsd"
+  },
+  "login": {
+    "email": "sjfsdn@test.com",
+    "password": "test.comsdfs"
+  },
+  "interests": [
+    [
+      "Devices",
+      "Pharmaceuticals"
+    ],
+    [
+      "Devices",
+      "Pharmaceuticals",
+      "Wellness",
+      "R & D",
+      "Palliative Care"
+    ],
+    []
+  ],
+  "feed": [
+    {
+      "_id": 1,
+      "date_posted": 1999,
+      "metadata": {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "author": "Jane Doe",
+        "source": "Health Network",
+        "image": "https://images.pexels.com/photos/1282308/pexels-photo-1282308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    },
+    {
+      "_id": 2,
+      "date_posted": 1999,
+      "metadata": {
+        "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "author": "Jenny Woo",
+        "source": "Health News",
+        "image": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    },
+    {
+      "_id": 3,
+      "date_posted": 1999,
+      "metadata": {
+        "title": "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+        "author": "Alex Lim",
+        "source": "Digital Health",
+        "image": "https://images.pexels.com/photos/1919236/pexels-photo-1919236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    },
+    {
+      "_id": 4,
+      "date_posted": 1999,
+      "metadata": {
+        "title": "Laboris nisi ut aliquip ex ea commodo consequat",
+        "author": "Some Author",
+        "source": "Health Corp",
+        "image": "https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    },
+    {
+      "_id": 5,
+      "date_posted": 1999,
+      "metadata": {
+        "title": "Duis aute irure dolor in reprehenderit in voluptate.",
+        "author": "Nice Person",
+        "source": "Tech Company",
+        "image": "https://images.pexels.com/photos/1498933/pexels-photo-1498933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    },
+    {
+      "_id": 6,
+      "date_posted": 1999,
+      "metadata": {
+        "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "Nice Person",
+        "source": "Tech Company",
+        "image": "https://images.pexels.com/photos/2324837/pexels-photo-2324837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      }
+    }
+  ],
+  "1": {
+    "_id": 1,
+    "date_posted": 1999,
+    "metadata": {
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "author": "Jane Doe",
+      "source": "Health Network",
+      "image": "https://images.pexels.com/photos/1282308/pexels-photo-1282308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    "article_body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus.</p> Neque volutpat ac tincidunt vitae semper quis lectus nulla. Id eu nisl nunc mi ipsum faucibus. Urna nunc id cursus metus aliquam. Eleifend quam adipiscing vitae proin sagittis nisl. Non tellus orci ac auctor. Enim nec dui nunc mattis enim ut. Id interdum velit laoreet id donec ultrices tincidunt. Lacus vestibulum sed arcu non odio euismod lacinia at. At tempor commodo ullamcorper a lacus vestibulum. Tempus egestas sed sed risus pretium quam vulputate. Mi tempus imperdiet nulla malesuada pellentesque. Duis at consectetur lorem donec massa sapien faucibus et. Tristique sollicitudin nibh sit amet commodo nulla. Etiam tempor orci eu lobortis. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent. Aliquam purus sit amet luctus venenatis lectus magna. Vulputate sapien nec sagittis aliquam malesuada bibendum. Ultrices in iaculis nunc sed. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Justo donec enim diam vulputate. Magna eget est lorem ipsum dolor sit amet consectetur adipiscing. Sollicitudin ac orci phasellus egestas tellus. Elementum curabitur vitae nunc sed velit dignissim. Volutpat odio facilisis mauris sit amet massa. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Turpis nunc eget lorem dolor sed viverra. Justo eget magna fermentum iaculis eu non. Pharetra diam sit amet nisl suscipit adipiscing. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Nisi quis eleifend quam adipiscing vitae. At tellus at urna condimentum. Et netus et malesuada fames ac. Et ligula ullamcorper malesuada proin libero nunc. Eget dolor morbi non arcu risus. Sit amet justo donec enim. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Sit amet justo donec enim diam vulputate ut. Rhoncus aenean vel elit scelerisque. Integer feugiat scelerisque varius morbi. Dolor sit amet consectetur adipiscing elit ut aliquam. Donec pretium vulputate sapien nec sagittis. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Quis lectus nulla at volutpat diam ut venenatis. Congue quisque egestas diam in. Cursus euismod quis viverra nibh. Faucibus in ornare quam viverra orci sagittis. Sit amet nisl suscipit adipiscing bibendum est. Placerat vestibulum lectus mauris ultrices. Tellus integer feugiat scelerisque varius morbi enim nunc. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Velit aliquet sagittis id consectetur purus ut faucibus pulvinar. Scelerisque purus semper eget duis at tellus at urna. In nisl nisi scelerisque eu ultrices. Nulla pellentesque dignissim enim sit amet. Scelerisque eleifend donec pretium vulputate sapien. Sit amet justo donec enim. Orci sagittis eu volutpat odio. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Nisl nunc mi ipsum faucibus. Varius morbi enim nunc faucibus. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Lorem ipsum dolor sit amet consectetur adipiscing elit. Aliquam purus sit amet luctus venenatis lectus. Condimentum lacinia quis vel eros donec. Nisl purus in mollis nunc sed id semper risus in. Nulla aliquet porttitor lacus luctus accumsan tortor. Vitae et leo duis ut. Ac turpis egestas sed tempus urna. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Orci ac auctor augue mauris augue neque gravida. In cursus turpis massa tincidunt dui ut. At elementum eu facilisis sed odio morbi. Nibh mauris cursus mattis molestie. Cursus in hac habitasse platea dictumst quisque sagittis. Quis hendrerit dolor magna eget est lorem ipsum dolor. Lectus nulla at volutpat diam ut. Tellus rutrum tellus pellentesque eu. Sed pulvinar proin gravida hendrerit lectus a. Ante metus dictum at tempor commodo ullamcorper. Tempus iaculis urna id volutpat lacus laoreet non curabitur. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Varius duis at consectetur lorem donec. Lectus arcu bibendum at varius vel pharetra vel. Scelerisque fermentum dui faucibus in ornare quam."
+  },
+  "2": {}
 }
